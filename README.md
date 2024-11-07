@@ -18,3 +18,6 @@ Deep Learning is a branch of Machine Learning that uses neural networks to model
 - **Resources**: Additional readings, research papers, and books.
 - **Lectures**: Slides which are content of this course.
 
+You can get this course from Coursera.
+https://www.coursera.org/specializations/deep-learning
+
