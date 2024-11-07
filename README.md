@@ -15,5 +15,6 @@ Deep Learning is a branch of Machine Learning that uses neural networks to model
 
 - **Assignments**: Solutions and explanations for all course assignments.
 - **Projects**: Mini-projects and final project(s) demonstrating deep learning applications.
-- **Resources**: Additional readings, research papers, and study resources.
+- **Resources**: Additional readings, research papers, and books.
+- **Lectures**: Slides which are content of this course.
 
